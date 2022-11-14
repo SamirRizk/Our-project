@@ -1,1 +1,6 @@
 this is sam acount
+int main()
+{
+
+return 0;
+}
